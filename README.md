@@ -1,7 +1,7 @@
 # # 👋 Hey, I'm Tyree (aka Tymaze3)
 
-🔐 **Cybersecurity Analyst & Future Cloud Security Engineer**  
-🛡️ System Administrator Intern | Secret Clearance | 10+ Years in HIPAA-Sensitive Roles  
+🔐 **Aspiring DevSecOps Engineer or Cloud Security Engineer**  
+🛡️ Cybersecurity Analyst | Secret Clearance | 10+ Years in HIPAA-Sensitive Roles  
 💻 Building, Hardening, and Defending Systems One Project at a Time  
 
 ---
