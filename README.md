@@ -9,8 +9,8 @@
 ### 👨🏽‍💻 Current Focus
 - ⚙️ Automating DISA STIG implementation using GPO, PowerShell, and `.inf` templates  
 - 🧱 Building a secure **Kali Linux** homelab (VirtualBox) with system hardening & ethical hacking tools  
-- ☁️ Learning the foundations of **Cloud Security Engineering** (Azure & Microsoft 365)  
-- 📚 Preparing for **CompTIA Security+** (Target Date: May 2025)
+- ☁️ Learning the foundations of **DevSecOps Engineering**   
+- 📚 Preparing for **CompTIA Security+** 
 
 ---
 
